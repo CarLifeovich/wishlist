@@ -391,7 +391,7 @@ html{
 /* HEADER */
 
 .menu_full {
-    background: linear-gradient(rgba(255, 241, 242, 1), rgba(255, 255, 255, 0.5));
+    background: linear-gradient(#00008090 10%, #f0f0f000 90%);
     width: 100%;
     position: fixed;
     z-index: 999999;
